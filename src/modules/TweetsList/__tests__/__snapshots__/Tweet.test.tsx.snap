@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tweet Tests Suit Tweet renders well 1`] = `
+<View>
+  <View>
+    <Text>
+      Author Name
+    </Text>
+    <Text>
+      2018 April 13 10:39
+    </Text>
+    <Text>
+      Some tweet about something
+    </Text>
+    <View
+      accessible={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+    >
+      <View>
+        <View
+          style={
+            Array [
+              undefined,
+              undefined,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                undefined,
+                undefined,
+                Object {
+                  "backgroundColor": "#FF0DFF",
+                },
+              ]
+            }
+          />
+          <View
+            style={
+              Array [
+                undefined,
+                undefined,
+                Object {
+                  "backgroundColor": "#FF0DFF",
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          style={
+            Array [
+              undefined,
+              undefined,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                undefined,
+                undefined,
+                Object {
+                  "backgroundColor": "#FFF",
+                },
+              ]
+            }
+          />
+          <View
+            style={
+              Array [
+                undefined,
+                undefined,
+                Object {
+                  "backgroundColor": "#FFF",
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+  <Image
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "image",
+      }
+    }
+  />
+</View>
+`;
